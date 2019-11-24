@@ -5,7 +5,7 @@
 </head>
 <body>
 	<script type="text/javascript">
-		var store=prompt("enter the name");
+		var store=prompt("enter the number");
 		var num=parseInt(store);
 		if(num%2==0)
 		{
